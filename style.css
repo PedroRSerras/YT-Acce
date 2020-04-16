@@ -1,0 +1,38 @@
+.btsAcce{
+    color: white;
+    background-color: transparent;
+    border: none;
+    border-radius: 100px;
+    box-sizing: border-box;
+    padding: 0 5px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    align-self: center;
+    text-decoration:none;
+}
+
+.btsAcce:hover{
+    background-color: rgba(112, 112, 112, 0.397);
+    
+}
+
+.reader{
+    color: white;
+    background-color: transparent;
+    border-radius: 100px;
+    box-sizing: border-box;
+    border: none;
+    align-self: center;
+    text-align: center;
+    flex-grow: 1;
+}
+
+
+
+.speeder{
+    display: flex;
+    width: 8em;
+    justify-content: space-between;
+    align-self: center;
+}
