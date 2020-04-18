@@ -1,7 +1,12 @@
 {
     "manifest_version": 2,
-    "name": "youtube accelerator",
-    "version": "0.1",
+    "name": "YouTube™ Accelerator",
+    "version": "0.2",
+    "description": "Speed up YouTube™ videos up to 16 times the normal speed!",
+    "icons": {
+  "128": "128x128icon.png"
+	},
+    "author": "Pedro Ribas Serras and João Pedro França Rios de Sozua Tavares",
     "content_scripts":[
         {
             "matches": ["https://www.youtube.com/*"],
